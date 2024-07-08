@@ -1,0 +1,21 @@
+#root {
+
+
+}
+
+.card-body-stars {
+  display: flex;
+  list-style-type: none;
+
+}
+.post{
+    background-color: #FFEFD5;
+    width: 180px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #FFDEAD;
+    margin-bottom: 15px;
+    color: #614b1f;
+    padding: 5px;
+    box-shadow: 5px 2px 2px #fae59b;
+}
